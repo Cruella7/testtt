@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="39"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="69"/>
+        <CursorPos X="7" Y="88"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="About"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit2"/>
+        <EditorIndex Value="14"/>
+        <CursorPos X="71" Y="14"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit3.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormBus"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit3"/>
+        <TopLine Value="14"/>
+        <CursorPos X="21" Y="70"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit4.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSt"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit4"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="3"/>
+        <CursorPos X="5" Y="17"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit5.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormR"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit5"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="2"/>
+        <CursorPos X="3" Y="36"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit6.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Zapros1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit6"/>
+        <EditorIndex Value="11"/>
+        <CursorPos X="53" Y="6"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit7.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Zapros2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit7"/>
+        <EditorIndex Value="12"/>
+        <CursorPos X="51" Y="21"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit8.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="AddR"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit8"/>
+        <EditorIndex Value="13"/>
+        <TopLine Value="19"/>
+        <CursorPos X="3" Y="50"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit9.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="KodSt"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit9"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="54" Y="6"/>
+        <UsageCount Value="39"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit10.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="NameSt"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit10"/>
+        <EditorIndex Value="9"/>
+        <CursorPos X="55" Y="29"/>
+        <UsageCount Value="39"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unit1addbus.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormAddBus"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unit1AddBus"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="51"/>
+        <CursorPos X="3" Y="76"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitspmark.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSpMark"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitSpMark"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="45"/>
+        <CursorPos X="53" Y="69"/>
+        <UsageCount Value="34"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitspnumber.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSpNumber"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitSpNumber"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="36"/>
+        <CursorPos X="34" Y="57"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="unitspvmes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FormSpVmes"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="unitSpVmes"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="36"/>
+        <CursorPos X="61" Y="48"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\interfaces\win32\win32listsl.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos Y="152"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <UnitName Value="Grids"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="41"/>
+        <CursorPos X="41" Y="60"/>
+        <UsageCount Value="13"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\AppData\Local\Temp\Temp1_БИБ (2).zip\БИБ\project1.lpr"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4092" Column="50" TopLine="4061"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="60" Column="41" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="72" Column="49" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="76" Column="27" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="73" Column="80" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="78" Column="60" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="2047" Column="13" TopLine="2016"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="78" Column="58" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="2052" Column="58" TopLine="2016"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4097" Column="58" TopLine="4061"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4908" Column="58" TopLine="4871"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="7681" Column="58" TopLine="7644"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="9637" Column="61" TopLine="9601"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="9810" Column="14" TopLine="9778"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="9838" Column="44" TopLine="9803"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="60" Column="41" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="76" Column="27" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="2047" Column="13" TopLine="2016"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4092" Column="50" TopLine="4061"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4903" Column="100" TopLine="4871"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="7676" Column="32" TopLine="7644"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="9834" Column="26" TopLine="9803"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="60" Column="41" TopLine="41"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="76" Column="27" TopLine="44"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="2047" Column="13" TopLine="2016"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4092" Column="50" TopLine="4061"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="4903" Column="100" TopLine="4871"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="7676" Column="32" TopLine="7644"/>
+      </Position>
+      <Position>
+        <Filename Value="C:\lazarus\lcl\grids.pas"/>
+        <Caret Line="9834" Column="26" TopLine="9803"/>
+      </Position>
+      <Position>
+        <Filename Value="unit3.pas"/>
+        <Caret Line="96" Column="70" TopLine="70"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

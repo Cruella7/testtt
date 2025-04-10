@@ -1,0 +1,8 @@
+object KodSt: TKodSt
+  Left = 739
+  Height = 240
+  Top = 451
+  Width = 320
+  Caption = 'KodSt'
+  LCLVersion = '2.2.6.0'
+end

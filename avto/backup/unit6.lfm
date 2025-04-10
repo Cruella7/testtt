@@ -1,0 +1,8 @@
+object Zapros1: TZapros1
+  Left = 1304
+  Height = 240
+  Top = 383
+  Width = 320
+  Caption = 'Zapros1'
+  LCLVersion = '2.2.6.0'
+end

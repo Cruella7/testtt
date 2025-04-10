@@ -1,0 +1,107 @@
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\App.g.cs
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\ToursApp.pdb
+C:\Users\A\Desktop\ToursApp\ToursApp\ToursApp\obj\Debug\App.baml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\App.baml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.pdb
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\toors21ISMazhorov.mdf
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\toors21ISMazhorov_log.ldf
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\App.g.cs
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.pdb
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\App.baml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ToursApp1\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\ToursApp.exe.config
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\ToursApp.exe
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\ToursApp.pdb
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\EntityFramework.dll
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\EntityFramework.xml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\AddEditPage.g.cs
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\HotelsPage.g.cs
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\MainWindow.g.cs
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\App.g.cs
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp_Content.g.cs
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.cache
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp_MarkupCompile.lref
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\App.baml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\AddEditPage.baml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\HotelsPage.baml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\MainWindow.baml
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.g.resources
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.csproj.CopyComplete
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.exe
+C:\Users\Арутюнян Софья\Desktop\ToursApp(FULL)\ToursApp\ToursApp\obj\Debug\ToursApp.pdb

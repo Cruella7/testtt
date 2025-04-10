@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>450</width>
+    <height>359</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">#home{
+  padding-left:15px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+
+#widget_menu QPushButton{
+  text-align:left;
+  border: None;
+}
+#widget_menu QPushButton:hover, #widget_base:hover, #widget_city:hover,#widget_sales:hover{
+   background-color:rgb(222,222,222);
+}
+#widget_menu QPushButton::disabled{
+   background-color:rgb(222,222,222);
+   color:rgb(0,0,0);
+}
+
+#base_menu QPushButton,#widget_city_2 QPushButton, #widget_sale QPushButton{
+ padding-left:20px;
+  padding-top:5px;
+  padding-bottom:5px;
+ }
+
+#widget_menu{
+    background-color:rgb(255,255,255);
+    border:solid 1px rdb(0,0,0);
+}
+</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QScrollArea" name="scrollArea">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>121</width>
+      <height>271</height>
+     </rect>
+    </property>
+    <property name="minimumSize">
+     <size>
+      <width>91</width>
+      <height>0</height>
+     </size>
+    </property>
+    <property name="widgetResizable">
+     <bool>true</bool>
+    </property>
+    <widget class="QWidget" name="scrollAreaWidgetContents">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>119</width>
+       <height>269</height>
+      </rect>
+     </property>
+     <widget class="QWidget" name="widget_2" native="true">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>0</y>
+        <width>121</width>
+        <height>31</height>
+       </rect>
+      </property>
+      <widget class="QLabel" name="label">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>121</width>
+         <height>31</height>
+        </rect>
+       </property>
+       <property name="font">
+        <font>
+         <pointsize>8</pointsize>
+        </font>
+       </property>
+       <property name="lineWidth">
+        <number>1</number>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+       <property name="pixmap">
+        <pixmap>:/icons/лог.jpg</pixmap>
+       </property>
+       <property name="scaledContents">
+        <bool>true</bool>
+       </property>
+       <property name="margin">
+        <number>-1</number>
+       </property>
+       <property name="indent">
+        <number>17</number>
+       </property>
+      </widget>
+     </widget>
+     <widget class="QWidget" name="widget_menu" native="true">
+      <property name="geometry">
+       <rect>
+        <x>0</x>
+        <y>30</y>
+        <width>121</width>
+        <height>231</height>
+       </rect>
+      </property>
+      <widget class="QWidget" name="widget_5" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>111</width>
+         <height>30</height>
+        </rect>
+       </property>
+       <layout class="QVBoxLayout" name="verticalLayout">
+        <property name="spacing">
+         <number>0</number>
+        </property>
+        <property name="leftMargin">
+         <number>0</number>
+        </property>
+        <property name="topMargin">
+         <number>0</number>
+        </property>
+        <property name="rightMargin">
+         <number>0</number>
+        </property>
+        <property name="bottomMargin">
+         <number>0</number>
+        </property>
+        <item>
+         <widget class="QPushButton" name="home">
+          <property name="text">
+           <string>Домой</string>
+          </property>
+          <property name="icon">
+           <iconset>
+            <normaloff>../icons/домой.png</normaloff>../icons/домой.png</iconset>
+          </property>
+         </widget>
+        </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="widget_base" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>30</y>
+         <width>121</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="pushButton_2">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>7</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Мои данные</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>:/icons/список.png</normaloff>:/icons/список.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="base_menu" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>50</y>
+         <width>120</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="information">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Контактная информация</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/контакная инф.png</normaloff>../icons/контакная инф.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>18</width>
+          <height>12</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="mymoneti">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>20</y>
+          <width>121</width>
+          <height>21</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Мои действия с монетами</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/монеты.png</normaloff>../icons/монеты.png</iconset>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="widget_city" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>90</y>
+         <width>121</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="pushButton_5">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>7</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Мои поездки</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>:/icons/список.png</normaloff>:/icons/список.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="widget_city_2" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>110</y>
+         <width>120</width>
+         <height>41</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="buetick">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>20</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Купленные билеты</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/купл.png</normaloff>../icons/купл.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>26</width>
+          <height>12</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="activcity">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Активные поездки</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/актив.png</normaloff>../icons/актив.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>18</width>
+          <height>12</height>
+         </size>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="widget_sales" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>150</y>
+         <width>121</width>
+         <height>21</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="sale">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>7</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Мои льготы и скидки</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>:/icons/список.png</normaloff>:/icons/список.png</iconset>
+        </property>
+        <property name="checkable">
+         <bool>true</bool>
+        </property>
+       </widget>
+      </widget>
+      <widget class="QWidget" name="widget_sale" native="true">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>170</y>
+         <width>120</width>
+         <height>71</height>
+        </rect>
+       </property>
+       <widget class="QPushButton" name="mylgots">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>0</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="text">
+         <string>Выбрать льготу</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/льгота.png</normaloff>../icons/льгота.png</iconset>
+        </property>
+        <property name="iconSize">
+         <size>
+          <width>28</width>
+          <height>14</height>
+         </size>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="mysales">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>20</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>6</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Управление скидками</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>:/icons/12.png</normaloff>:/icons/12.png</iconset>
+        </property>
+       </widget>
+       <widget class="QPushButton" name="mypreim">
+        <property name="geometry">
+         <rect>
+          <x>0</x>
+          <y>40</y>
+          <width>121</width>
+          <height>20</height>
+         </rect>
+        </property>
+        <property name="font">
+         <font>
+          <pointsize>6</pointsize>
+         </font>
+        </property>
+        <property name="text">
+         <string>Ваши преимущества</string>
+        </property>
+        <property name="icon">
+         <iconset>
+          <normaloff>../icons/img_148969.png</normaloff>../icons/img_148969.png</iconset>
+        </property>
+       </widget>
+      </widget>
+     </widget>
+    </widget>
+   </widget>
+   <widget class="QWidget" name="widget" native="true">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>0</y>
+      <width>301</width>
+      <height>261</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+    <widget class="QWidget" name="widget_4" native="true">
+     <property name="geometry">
+      <rect>
+       <x>0</x>
+       <y>0</y>
+       <width>371</width>
+       <height>41</height>
+      </rect>
+     </property>
+     <widget class="QLabel" name="label_3">
+      <property name="geometry">
+       <rect>
+        <x>10</x>
+        <y>10</y>
+        <width>21</width>
+        <height>21</height>
+       </rect>
+      </property>
+      <property name="text">
+       <string/>
+      </property>
+      <property name="pixmap">
+       <pixmap>../icons/домой.png</pixmap>
+      </property>
+      <property name="scaledContents">
+       <bool>true</bool>
+      </property>
+     </widget>
+     <widget class="QLabel" name="label_2">
+      <property name="geometry">
+       <rect>
+        <x>40</x>
+        <y>10</y>
+        <width>71</width>
+        <height>20</height>
+       </rect>
+      </property>
+      <property name="font">
+       <font>
+        <family>Bodoni MT</family>
+        <pointsize>10</pointsize>
+        <weight>75</weight>
+        <bold>true</bold>
+       </font>
+      </property>
+      <property name="text">
+       <string>Мой кабинет</string>
+      </property>
+     </widget>
+    </widget>
+    <widget class="QWidget" name="widget_12" native="true">
+     <property name="geometry">
+      <rect>
+       <x>10</x>
+       <y>40</y>
+       <width>291</width>
+       <height>211</height>
+      </rect>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">background-color: rgb(255, 255, 255);</string>
+     </property>
+     <layout class="QVBoxLayout" name="verticalLayout_3">
+      <property name="spacing">
+       <number>0</number>
+      </property>
+      <property name="leftMargin">
+       <number>0</number>
+      </property>
+      <property name="topMargin">
+       <number>0</number>
+      </property>
+      <property name="rightMargin">
+       <number>0</number>
+      </property>
+      <property name="bottomMargin">
+       <number>0</number>
+      </property>
+     </layout>
+    </widget>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+  <widget class="QToolBar" name="toolBar">
+   <property name="windowTitle">
+    <string>toolBar</string>
+   </property>
+   <property name="toolButtonStyle">
+    <enum>Qt::ToolButtonTextUnderIcon</enum>
+   </property>
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+   <addaction name="lichnie"/>
+   <addaction name="fpoezdki"/>
+   <addaction name="poezdki"/>
+   <addaction name="moneti"/>
+   <addaction name="action_7"/>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>450</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menu">
+    <property name="title">
+     <string>Мои данные</string>
+    </property>
+    <widget class="QMenu" name="menu_3">
+     <property name="title">
+      <string>Мои билеты</string>
+     </property>
+     <addaction name="action_10"/>
+     <addaction name="action_11"/>
+    </widget>
+    <widget class="QMenu" name="menu_2">
+     <property name="title">
+      <string>Мои действия с монетами</string>
+     </property>
+     <addaction name="action_7"/>
+     <addaction name="action_8"/>
+     <addaction name="action_9"/>
+    </widget>
+    <widget class="QMenu" name="menu_4">
+     <property name="title">
+      <string>Информация обо мне</string>
+     </property>
+     <addaction name="lichnie"/>
+     <addaction name="action_13"/>
+    </widget>
+    <widget class="QMenu" name="menu_5">
+     <property name="title">
+      <string>Мои льготы и скидки</string>
+     </property>
+     <addaction name="moneti"/>
+    </widget>
+    <addaction name="menu_3"/>
+    <addaction name="menu_4"/>
+    <addaction name="action_4"/>
+    <addaction name="menu_5"/>
+    <addaction name="menu_2"/>
+   </widget>
+   <widget class="QMenu" name="menu_6">
+    <property name="title">
+     <string>Мои поездки</string>
+    </property>
+    <addaction name="action_15"/>
+    <addaction name="action_16"/>
+    <addaction name="action_17"/>
+    <addaction name="fpoezdki"/>
+    <addaction name="poezdki"/>
+   </widget>
+   <widget class="QMenu" name="menu_7">
+    <property name="title">
+     <string>Мои льготы и скидки</string>
+    </property>
+    <addaction name="action_20"/>
+    <addaction name="action_21"/>
+    <addaction name="action_22"/>
+   </widget>
+   <addaction name="menu"/>
+   <addaction name="menu_6"/>
+   <addaction name="menu_7"/>
+  </widget>
+  <action name="action_4">
+   <property name="text">
+    <string>Мои поездки</string>
+   </property>
+  </action>
+  <action name="action_7">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/icons/мои действия с монетами.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Оплатить билет монетами</string>
+   </property>
+  </action>
+  <action name="action_8">
+   <property name="text">
+    <string>Получить скидку</string>
+   </property>
+  </action>
+  <action name="action_9">
+   <property name="text">
+    <string>Специальные услуги за монеты</string>
+   </property>
+  </action>
+  <action name="action_10">
+   <property name="text">
+    <string>Мои покупки</string>
+   </property>
+  </action>
+  <action name="action_11">
+   <property name="text">
+    <string>Мои бронирования</string>
+   </property>
+  </action>
+  <action name="lichnie">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>:/icons/img_148969.png</normaloff>:/icons/img_148969.png</iconset>
+   </property>
+   <property name="text">
+    <string>Мои личные данные</string>
+   </property>
+  </action>
+  <action name="action_13">
+   <property name="text">
+    <string>Контактная информация</string>
+   </property>
+  </action>
+  <action name="moneti">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normalon>:/icons/12.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Посмотреть мои скидки</string>
+   </property>
+  </action>
+  <action name="action_15">
+   <property name="icon">
+    <iconset>
+     <normalon>:/icons/билет.png</normalon>
+    </iconset>
+   </property>
+   <property name="text">
+    <string>Купленные билеты</string>
+   </property>
+  </action>
+  <action name="action_16">
+   <property name="text">
+    <string>Активные поездки</string>
+   </property>
+  </action>
+  <action name="action_17">
+   <property name="text">
+    <string>Прошедшие поездки</string>
+   </property>
+  </action>
+  <action name="fpoezdki">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>:/icons/мои поездки.png</normaloff>:/icons/мои поездки.png</iconset>
+   </property>
+   <property name="text">
+    <string>Будущие поездки</string>
+   </property>
+  </action>
+  <action name="poezdki">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="icon">
+    <iconset>
+     <normaloff>:/icons/история.png</normaloff>:/icons/история.png</iconset>
+   </property>
+   <property name="text">
+    <string>История поездок</string>
+   </property>
+  </action>
+  <action name="action_20">
+   <property name="checkable">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Выбрать льготу</string>
+   </property>
+  </action>
+  <action name="action_21">
+   <property name="text">
+    <string>Управление льготами и скидками</string>
+   </property>
+  </action>
+  <action name="action_22">
+   <property name="text">
+    <string>Ваши персональные преимущества</string>
+   </property>
+  </action>
+ </widget>
+ <resources>
+  <include location="../icons/icons.qrc"/>
+  <include location="../../OneDrive/Рабочий стол/kurs/icons/icons.qrc"/>
+ </resources>
+ <connections>
+  <connection>
+   <sender>sale</sender>
+   <signal>toggled(bool)</signal>
+   <receiver>mysales</receiver>
+   <slot>setVisible(bool)</slot>
+   <hints>
+    <hint type="sourcelabel">
+     <x>68</x>
+     <y>249</y>
+    </hint>
+    <hint type="destinationlabel">
+     <x>71</x>
+     <y>292</y>
+    </hint>
+   </hints>
+  </connection>
+ </connections>
+</ui>

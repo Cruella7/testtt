@@ -1,0 +1,24 @@
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\bin\Debug\Text.exe
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\bin\Debug\Text.pdb
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.Form1.resources
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.exe
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.pdb
+C:\Users\Арутюнян Софья\Desktop\РЕДАКТОР\Text\Text\obj\Debug\Text.AboutBox1.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.AboutBox1.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.Form1.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.exe
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\obj\Debug\Text.pdb
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\bin\Debug\Text.exe.config
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\bin\Debug\Text.exe
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\РЕДАКТОР (2 часть)\Text\Text\bin\Debug\Text.pdb

@@ -1,0 +1,22 @@
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).exe.config
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).exe
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).pdb
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI_Arutyunyan22is_.Form1.resources
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI_Arutyunyan22is_.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).exe
+C:\Users\Арутюнян Софья\Desktop\Arut\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).pdb
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).exe.config
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).exe
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\bin\Debug\BMI(Arutyunyan22is).pdb
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI_Arutyunyan22is_.Form1.resources
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI_Arutyunyan22is_.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).exe
+C:\Users\Арутюнян Софья\Desktop\Арутюнян BMI\BMI(Arutyunyan22is)\BMI(Arutyunyan22is)\obj\Debug\BMI(Arutyunyan22is).pdb

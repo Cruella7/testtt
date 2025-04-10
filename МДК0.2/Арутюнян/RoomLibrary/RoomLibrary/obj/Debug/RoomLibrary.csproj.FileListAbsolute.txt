@@ -1,0 +1,6 @@
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.dll
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\bin\Debug\RoomLibrary.pdb
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.dll
+C:\Users\Арутюнян Софья\Desktop\Арутюнян\RoomLibrary\RoomLibrary\obj\Debug\RoomLibrary.pdb

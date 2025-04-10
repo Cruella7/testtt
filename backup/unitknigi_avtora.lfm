@@ -1,0 +1,35 @@
+object FormKnigi_avtora: TFormKnigi_avtora
+  Left = 1447
+  Height = 819
+  Top = 632
+  Width = 1012
+  Caption = 'FormKnigi_avtora'
+  ClientHeight = 819
+  ClientWidth = 1012
+  DesignTimePPI = 216
+  LCLVersion = '2.2.6.0'
+  object StringGrid1: TStringGrid
+    Left = 0
+    Height = 595
+    Top = 224
+    Width = 1008
+    Align = alCustom
+    TabOrder = 0
+  end
+  object EditButton1: TEditButton
+    Left = 512
+    Height = 56
+    Top = 16
+    Width = 232
+    ButtonWidth = 52
+    MaxLength = 0
+    NumGlyphs = 1
+    PasswordChar = #0
+    TabOrder = 1
+    Text = 'EditButton1'
+  end
+  object OpenDialog_Avtor: TOpenDialog
+    Left = 400
+    Top = 64
+  end
+end

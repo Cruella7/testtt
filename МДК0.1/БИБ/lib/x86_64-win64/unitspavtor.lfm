@@ -1,0 +1,135 @@
+object FormSpavtor: TFormSpavtor
+  Left = 2692
+  Height = 670
+  Top = 1036
+  Width = 1107
+  Caption = 'FormSpavtor'
+  ClientHeight = 670
+  ClientWidth = 1107
+  DesignTimePPI = 216
+  OnShow = FormShow
+  LCLVersion = '2.2.6.0'
+  object ListBox1: TListBox
+    Left = 30
+    Height = 636
+    Top = 16
+    Width = 385
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ItemHeight = 0
+    OnClick = ListBox1Click
+    ParentFont = False
+    TabOrder = 0
+  end
+  object Edit1: TEdit
+    Left = 447
+    Height = 49
+    Top = 104
+    Width = 624
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentFont = False
+    TabOrder = 1
+  end
+  object BtnAdd: TButton
+    Left = 447
+    Height = 88
+    Top = 224
+    Width = 624
+    Caption = 'Добавить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BtnAddClick
+    ParentFont = False
+    TabOrder = 2
+  end
+  object BtnEdit: TButton
+    Left = 448
+    Height = 88
+    Top = 344
+    Width = 624
+    Caption = 'Редактировать'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BtnEditClick
+    ParentFont = False
+    TabOrder = 3
+  end
+  object BtnDel: TButton
+    Left = 447
+    Height = 88
+    Top = 456
+    Width = 625
+    Caption = 'Удалить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BtnDelClick
+    ParentFont = False
+    TabOrder = 4
+  end
+  object BtnExit: TButton
+    Left = 432
+    Height = 88
+    Top = 560
+    Width = 240
+    Caption = 'Выход'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BtnExitClick
+    ParentFont = False
+    TabOrder = 5
+  end
+  object BtnSave: TButton
+    Left = 832
+    Height = 88
+    Top = 560
+    Width = 233
+    Caption = 'Сохранить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = BtnSaveClick
+    ParentFont = False
+    TabOrder = 6
+  end
+  object Label1: TLabel
+    Left = 600
+    Height = 48
+    Top = 8
+    Width = 305
+    Caption = 'Введите автора:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -42
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

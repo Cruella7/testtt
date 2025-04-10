@@ -1,0 +1,8 @@
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\obj\Debug\Laba.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\obj\Debug\Laba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\obj\Debug\Laba.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\bin\Debug\Laba.exe.config
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\bin\Debug\Laba.exe
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\bin\Debug\Laba.pdb
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\obj\Debug\Laba.exe
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Laba\Laba\obj\Debug\Laba.pdb

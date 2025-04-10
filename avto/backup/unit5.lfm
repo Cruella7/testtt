@@ -1,0 +1,19 @@
+object FormR: TFormR
+  Left = 1482
+  Height = 240
+  Top = 692
+  Width = 320
+  Caption = 'FormR'
+  ClientHeight = 240
+  ClientWidth = 320
+  LCLVersion = '2.2.6.0'
+  object add: TButton
+    Left = 27
+    Height = 25
+    Top = 5
+    Width = 75
+    Caption = 'add'
+    OnClick = addClick
+    TabOrder = 0
+  end
+end

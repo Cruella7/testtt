@@ -1,0 +1,204 @@
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\Ad\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\Interop.ExcelAdaptorLib.dll
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\Рома\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\A\Desktop\PaymentsExample\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\A\Desktop\MDK 2.0\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\ГаврюшкинPayments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\App.g.cs
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\A\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\ГаврюшкинPayments\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\Payments\PaymentsExample\obj\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\PaymentsExample.exe.config
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\PaymentsExample.pdb
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\EntityFramework.dll
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\EntityFramework.xml
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.ResolveComReference.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\MainWindow.g.cs
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\App.g.cs
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample_Content.g.cs
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample_MarkupCompile.lref
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\MainWindow.baml
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.g.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.csproj.CopyComplete
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.exe
+C:\Users\Арутюнян Софья\Desktop\МДК0.2\Payments\PaymentsExample\obj\Debug\PaymentsExample.pdb

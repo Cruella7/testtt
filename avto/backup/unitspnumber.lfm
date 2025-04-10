@@ -1,0 +1,123 @@
+object FormSpNumber: TFormSpNumber
+  Left = 1347
+  Height = 348
+  Top = 470
+  Width = 478
+  Caption = 'FormSpNumber'
+  ClientHeight = 348
+  ClientWidth = 478
+  OnShow = FormShow
+  LCLVersion = '2.2.6.0'
+  object ListBox1: TListBox
+    Left = 10
+    Height = 323
+    Top = 10
+    Width = 190
+    ItemHeight = 0
+    OnClick = ListBox1Click
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 247
+    Height = 22
+    Top = 10
+    Width = 172
+    Caption = 'Введите гос. номер:'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+  object Edit1: TEdit
+    Left = 231
+    Height = 42
+    Top = 40
+    Width = 207
+    AutoSize = False
+    TabOrder = 1
+  end
+  object ButAdd: TButton
+    Left = 229
+    Height = 34
+    Top = 92
+    Width = 210
+    Caption = 'Добавить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = ButAddClick
+    ParentFont = False
+    TabOrder = 2
+  end
+  object ButEdit: TButton
+    Left = 231
+    Height = 33
+    Top = 137
+    Width = 210
+    Caption = 'Редактировать'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = ButEditClick
+    ParentFont = False
+    TabOrder = 3
+  end
+  object ButDel: TButton
+    Left = 229
+    Height = 34
+    Top = 182
+    Width = 209
+    Caption = 'Удалить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = ButDelClick
+    ParentFont = False
+    TabOrder = 4
+  end
+  object ButSave: TButton
+    Left = 231
+    Height = 47
+    Top = 238
+    Width = 208
+    Caption = 'Сохранить'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = ButSaveClick
+    ParentFont = False
+    TabOrder = 5
+  end
+  object ButExit: TButton
+    Left = 234
+    Height = 43
+    Top = 301
+    Width = 204
+    Caption = 'Выход'
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -16
+    Font.Name = 'Times New Roman'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    OnClick = ButExitClick
+    ParentFont = False
+    TabOrder = 6
+  end
+end

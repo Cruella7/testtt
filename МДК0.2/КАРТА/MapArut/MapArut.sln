@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapArut", "MapArut\MapArut.csproj", "{BAAC8FE1-6292-4960-9168-90D1843D540F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAAC8FE1-6292-4960-9168-90D1843D540F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAC8FE1-6292-4960-9168-90D1843D540F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAC8FE1-6292-4960-9168-90D1843D540F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAC8FE1-6292-4960-9168-90D1843D540F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00308E70-C3A4-444B-98DD-93ADCD2A6303}
+	EndGlobalSection
+EndGlobal

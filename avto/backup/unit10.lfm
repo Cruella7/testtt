@@ -1,0 +1,8 @@
+object NameSt: TNameSt
+  Left = 595
+  Height = 240
+  Top = 391
+  Width = 320
+  Caption = 'NameSt'
+  LCLVersion = '2.2.6.0'
+end

@@ -1,0 +1,11 @@
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\bin\Debug\Map-main_ARUT.exe.config
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\bin\Debug\Map-main_ARUT.exe
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\bin\Debug\Map-main_ARUT.pdb
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.csproj.AssemblyReference.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map_main_ARUT.Form1.resources
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map_main_ARUT.Properties.Resources.resources
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.csproj.GenerateResource.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.csproj.CoreCompileInputs.cache
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.exe
+C:\Users\Арутюнян Софья\Desktop\КАРТА\Map-main_ARUT\Map-main_ARUT\obj\Debug\Map-main_ARUT.pdb
